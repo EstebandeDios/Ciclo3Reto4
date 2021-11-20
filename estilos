@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Vinculo archivo de estilos</h1>
+    <h2>Aplicando reglas de estilo</h2>
+    <ul>
+        <li>Selector</li>
+        <li>Propiedad</li>
+        <li>valor</li>
+    </ul>
+    <h2 class="texto1">Definicion CSS</h2>
+    <p class="texto1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem, laudantium aperiam aliquam quis deleniti minima commodi veritatis nemo aspernatur recusandae. Aliquid quae, veritatis dolorum in suscipit distinctio. Debitis, sapiente explicabo.
+    Officiis at ex tempora quo labore iste nihil ab praesentium, reiciendis adipisci amet eum magnam magni libero pariatur eius iusto ipsum architecto, temporibus sequi vero similique blanditiis. Aperiam, magni repellendus.</p>
+        <h2>Buenas practicas CSS</h2>
+        <p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio amet voluptas voluptatem nemo vero magni libero tenetur quidem quod est delectus animi, itaque maxime molestias laudantium corporis quos quisquam iusto.
+        Ea, magni inventore et in commodi reiciendis accusantium minus cupiditate voluptas accusamus incidunt aspernatur odit sed exercitationem dolores id nesciunt sint error voluptate ab earum dolore. Minima rerum saepe dolorum?
+        Facere dicta natus quas culpa explicabo dignissimos qui neque! Quos enim hic deleniti! Libero sint excepturi nihil voluptate, neque quidem sunt iure inventore odio fuga quia alias exercitationem unde. Eos?</p>
+</body>
+</html>
